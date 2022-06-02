@@ -1,7 +1,0 @@
-[10-May-2019 22:07:05 UTC] PHP Parse error:  syntax error, unexpected 'IN' (T_STRING) in /home/mosa/public_html/cr/application/models/Mosaeman.php on line 85
-[11-May-2019 19:35:53 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/mosa/public_html/cr/application/controllers/Displaced.php on line 241
-[14-May-2019 20:06:35 UTC] PHP Parse error:  syntax error, unexpected 'snewname' (T_STRING), expecting variable (T_VARIABLE) in /home/mosa/public_html/cr/application/controllers/Displaced.php on line 16
-[14-May-2019 20:08:18 UTC] PHP Parse error:  syntax error, unexpected 'snewname' (T_STRING), expecting variable (T_VARIABLE) in /home/mosa/public_html/cr/application/controllers/Displaced.php on line 16
-[14-May-2019 20:08:21 UTC] PHP Parse error:  syntax error, unexpected 'snewname' (T_STRING), expecting variable (T_VARIABLE) in /home/mosa/public_html/cr/application/controllers/Displaced.php on line 16
-[14-May-2019 20:09:04 UTC] PHP Parse error:  syntax error, unexpected 'snewname' (T_STRING), expecting variable (T_VARIABLE) in /home/mosa/public_html/cr/application/controllers/Displaced.php on line 16
-[14-May-2019 20:10:20 UTC] PHP Parse error:  syntax error, unexpected 'snewname' (T_STRING), expecting variable (T_VARIABLE) in /home/mosa/public_html/cr/application/controllers/Displaced.php on line 16
